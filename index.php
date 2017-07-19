@@ -61,8 +61,8 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1>SMARTFINTECH 2017</h1>
-          <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!</p>
+          <h1>i3-Workshop 2017</h1>
+          <p>Get the Best TCO with EnterpriseDB Postgres and Red Hat JBOSS</p>
         </div>
       </div>
       <div class="row">
@@ -90,7 +90,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            //<img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32463750%2F215485728698%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C2160%2C1080&s=2e65c3b008d01d633aeeb3b1ae8eb695">
+            <!-- <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32463750%2F215485728698%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C2160%2C1080&s=2e65c3b008d01d633aeeb3b1ae8eb695"> -->
             <img src="https://raw.githubusercontent.com/isnuryusuf/haexample/master/edb-redhat.png">
             
           </p>
