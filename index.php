@@ -61,8 +61,8 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-        <center>  <h1>i3-Workshop 2017</h1>
-          <p>Get the Best TCO with EnterpriseDB Postgres and Red Hat JBOSS</p> </center>
+        <h1>i3-Workshop 2017</h1>
+          <p>Get the Best TCO with EnterpriseDB Postgres and Red Hat JBOSS</p>
         </div>
       </div>
       <div class="row">
