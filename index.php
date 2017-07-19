@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>Basic - PHP Application on OpenShift/title>
+    <title>Basic - PHP Application on OpenShift </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../dist/img/favicon.ico">
     <!-- iPad retina icon -->
@@ -61,8 +61,8 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-        <h1>i3-Workshop 2017</h1>
-          <p>Get the Best TCO with EnterpriseDB Postgres and Red Hat JBOSS</p>
+        <center><h1>i3-Workshop 2017</h1>
+          <p>Get the Best TCO with EnterpriseDB Postgres and Red Hat JBOSS</p> </center>
         </div>
       </div>
       <div class="row">
